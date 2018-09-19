@@ -310,7 +310,7 @@
 
 	#header-wrapper
 	{
-		background: #af1641;
+		background: #1A6F85;
 	}
 
 	#header
@@ -377,14 +377,14 @@
 	
 	#menu li:hover a, #menu li.active a, #menu li.active span
 	{
-		background: #dc572e;
+		background: #2a3990;
 		border-radius: 7px;
 		color: #FFF;
 	}
 	
 	#menu .current_page_item a
 	{
-		background: #af1641;
+		background: #232F76;
 		color: #FFF;
 	}
 	
@@ -400,7 +400,7 @@
 	{
 		overflow: hidden;
 		padding: 7em 0em 5em 0em;
-		background: #af1641;
+		background: #1A6F85;
 		background-size: cover;
 		text-align: center;
 		color: rgba(255,255,255,.8);
@@ -425,7 +425,7 @@
 	#banner .button
 	{
 		margin-top: 3em;
-		background: #dc572e !important;
+		background: #D23369 !important;
 	}
 
 /*********************************************************************************/
