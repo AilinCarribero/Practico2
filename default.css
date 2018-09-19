@@ -377,14 +377,14 @@
 	
 	#menu li:hover a, #menu li.active a, #menu li.active span
 	{
-		background: #2a3990;
+		background: #D23369;
 		border-radius: 7px;
 		color: #FFF;
 	}
 	
 	#menu .current_page_item a
 	{
-		background: #232F76;
+		background: #D23369;
 		color: #FFF;
 	}
 	
